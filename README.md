@@ -1,7 +1,6 @@
 # Introduction 
 [AutoPanoStitch](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch) image stitching datasets compilation: A compilation of image stitching datasets from USC during my Ph.D. days and other open source providers.
 
-
 # Image stitching datasets description
 Creating image stitching datasets takes a lot of time and effort. During my Ph.D. days, I tried to compile datasets that were comprehensive to have `spherical`, `cylindrical` or `planar` and full view `360 x 180-degree` panoramas. These datasets posed a real challenge to the automatic stitching method. If all these datasets are stitched well, it definitely shows the robustness of your stitching method.
 
@@ -18,7 +17,7 @@ Below are some samples from the datasets. There are 100+ `panorama` or `image st
 | Rio | ![dataset_samples_rio](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/dfe34aa7-2d81-486f-9c97-1a1bdb16fc20) |
 
 ## Citation
-Image stitching datasets for cracks are available to the public. If you use this specific dataset (related to cracks) in your research, please use the following BibTeX entry to cite:
+Image stitching datasets for cracks are available to the public. If you use the dataset related to the cracks in this compilation in your research, please use the following BibTeX entry to cite:
 ```bibtex
 @PhdThesis{preetham2021vision,
 author = {{Aghalaya Manjunatha}, Preetham},
